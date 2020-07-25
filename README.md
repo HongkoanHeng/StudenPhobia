@@ -1,2 +1,1 @@
-# StudenPhobia
-Student Article 
+# StudentLIFE
